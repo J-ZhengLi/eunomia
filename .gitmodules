@@ -1,0 +1,3 @@
+[submodule "eunomia_dev/rust-coding-guidelines-zh"]
+	path = eunomia_dev/rust-coding-guidelines-zh
+	url = https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh.git
